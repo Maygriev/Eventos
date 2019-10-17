@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="stylesheet" href="../../css/bootstrap-4.3.1-dist/css/bootstrap.css">
-    <link rel="shortcut icon" href="../../ico/favicongif.ico">
+    <link rel="stylesheet" href="/css/bootstrap-4.3.1-dist/css/bootstrap.css">
+    <link rel="shortcut icon" href="/ico/favicongif.ico">
 
     <title>Eventos IFNC</title>
 </head>
